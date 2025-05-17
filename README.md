@@ -24,7 +24,7 @@ Data Analysis of AtliQ Hardwares using Advanced Excel
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/rishi0605/Excel_Data_Analytics/blob/main/Profit%20%26%20Loss%20by%20fiscal%20year.pdf)_ & _[Months](https://github.com/rishi0605/Excel_Data_Analytics/blob/main/Gross%20Margin%20%25%20by%20Quaters.pdf)_.
 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/rishi0605/Excel_Data_Analytics/blob/main/profit%20%26%20Loss%20for%20Markets.pdf)_.
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/rishi0605/Excel_Data_Analytics/blob/main/Profit%20%26%20Loss%20for%20Markets.pdf)_.
 
 
 
