@@ -1,5 +1,5 @@
 # Excel_Data_Analytics
-Data Analysis of AtliQ Hardwares using Excel
+Data Analysis of AtliQ Hardwares using Advanced Excel
 
 ## Sales Report :
 
@@ -10,7 +10,7 @@ Data Analysis of AtliQ Hardwares using Excel
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/rishi0605/Excel_Data_Analytics/blob/main/Market%20performance%20VS%20Targets.pdf)_.
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance across different markets and regions.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
@@ -21,9 +21,12 @@ Data Analysis of AtliQ Hardwares using Excel
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year] & _[Months]
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/rishi0605/Excel_Data_Analytics/blob/main/Profit%20%26%20Loss%20by%20fiscal%20year.pdf)_ & _[Months](https://github.com/rishi0605/Excel_Data_Analytics/blob/main/Gross%20Margin%20%25%20by%20Quaters.pdf)_.
 
-   **2.** Create Profit and Loss (P&L) reports by 
+
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/rishi0605/Excel_Data_Analytics/blob/main/profit%20%26%20Loss%20for%20Markets.pdf)_.
+
+
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -32,16 +35,17 @@ Data Analysis of AtliQ Hardwares using Excel
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+## Technical Skills :
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load) using powey Query editor in excel.
 - [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
+- [x]	Dealing with missing data, misplaced data using column distribution and column quality in power query.
+- [x]	Ability to derive date table, fiscal months and quarters.
 - [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Proficiency in utilizing supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Sophisticated understanding of Sales & Finance Reports.
 - [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Optimization of report generation through attentive fine-tuning.
+- [x]	Developing a organized approach to contruct a report building plan.
