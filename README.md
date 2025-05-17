@@ -6,7 +6,7 @@ Data Analysis of AtliQ Hardwares using Excel
 
 - **Project objective:** 
 
-    **1.** Create a 
+    **1.** Create a _[Net sales Data of Customers](https://github.com/rishi0605/Excel_Data_Analytics/blob/main/Net%20Sales%20Data%20of%20%20Customers.pdf)_.
 
     **2.** Conduct a comprehensive comparison between 
 
